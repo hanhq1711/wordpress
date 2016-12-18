@@ -1,0 +1,14 @@
+{
+    "name": "hanhq1711/wordpress",
+    "description": "a blog for wordpress",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "hanhq1711",
+            "email": "hanhq1711@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
